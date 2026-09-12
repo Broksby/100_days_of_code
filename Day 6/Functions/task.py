@@ -1,6 +1,7 @@
-def get_user_name():
-    name = input("What is your name?")
-    print(f"Hello {name}!")
+#def get_user_name():
+#    name = input("What is your name?")
+#    print(f"Hello {name}!")
 
-print("Hello")
-get_user_name()
+#print("Hello")
+#get_user_name()
+
